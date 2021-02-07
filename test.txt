@@ -1,2 +1,4 @@
 welcome to git
 learning git bsic
+Editing this file after initial commit
+Thank you
